@@ -1,5 +1,12 @@
-** Here's a suggested folder + file layout for wbe-onecart-ui-refactor:
+# 📚 Documentation Structure — `wbe-onecart-ui-refactor`
 
+This directory contains structured documentation to help developers **understand, onboard, and refactor** the codebase efficiently.
+
+---
+
+## 📂 Folder Structure
+
+```text
 docs/
 ├── README.md                        # Docs index / table of contents
 │
