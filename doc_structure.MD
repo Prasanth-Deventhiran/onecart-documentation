@@ -1,4 +1,4 @@
-# 📚 Documentation Structure — `wbe-onecart-ui-refactor`
+# Documentation Structure — `wbe-onecart-ui-refactor`
 
 This directory contains structured documentation to help developers **understand, onboard, and refactor** the codebase efficiently.
 
