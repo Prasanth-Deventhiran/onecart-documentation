@@ -1,6 +1,6 @@
-# 📘 Codebase Analysis — Documentation Estimation
+# Codebase Analysis — Documentation Estimation
 
-## 📦 Project Overview
+## Project Overview
 **Project Name:** `wbe-onecart-ui-refactor`  
 **Framework:** Angular 17.3.8  
 **Application Type:** Web Booking Engine (UI Refactor)
@@ -18,7 +18,7 @@
 
 ---
 
-## 🧩 Feature Modules
+## Feature Modules
 
 ### Core Modules
 - activities  
@@ -46,9 +46,9 @@
 
 ---
 
-## 📚 Recommended Documentation Structure & Effort Estimate
+## Recommended Documentation Structure & Effort Estimate
 
-> ⚠️ Note: Estimates assume a **new developer learning the system while documenting**
+>  Note: Estimates assume a **new developer learning the system while documenting**
 
 | # | Document | Scope | Effort (Newbie) |
 |---|----------|------|-----------------|
@@ -63,9 +63,9 @@
 
 ---
 
-## ⏱️ Total Effort Estimate
+## Total Effort Estimate
 
-### 🟢 Fast Path (Minimum Viable Docs)
+### Fast Path (Minimum Viable Docs)
 **Duration:** 5–7 working days  
 
 **Includes:**
@@ -79,7 +79,7 @@
 
 ---
 
-### 🟡 Thorough Path (Recommended)
+### Thorough Path (Recommended)
 **Duration:** 16–20 working days (3–4 weeks)
 
 **Includes:**
@@ -92,7 +92,7 @@
 
 ---
 
-### 🔴 Deep Documentation (Enterprise Level)
+### Deep Documentation (Enterprise Level)
 **Duration:** 30+ working days  
 
 **Includes:**
@@ -107,7 +107,7 @@
 
 ---
 
-## 🧠 Key Assumptions
+## Key Assumptions
 
 - Developer is **new to the project**
 - Documentation is written alongside **code exploration**
@@ -116,7 +116,7 @@
 
 ---
 
-## 📈 Recommendations
+## Recommendations
 
 - Start with **Fast Path**, then evolve incrementally  
 - Prioritize:
@@ -130,7 +130,7 @@
 
 ---
 
-## 🚀 Suggested Execution Plan
+## Suggested Execution Plan
 
 ### Week 1
 - README  
@@ -148,7 +148,7 @@
 
 ---
 
-## 📝 Final Thoughts
+## Final Thoughts
 
 This is a **large-scale Angular enterprise application (~250K LOC)**.  
 Trying to document everything at once is inefficient.
